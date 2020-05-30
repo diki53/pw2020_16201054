@@ -16,6 +16,10 @@ $pegawai = query("SELECT * FROM user");
 <body>
   <h3>Daftar Mahasiswa</h3>
 
+  <a href="tambah.php">Tambah Data Pegawai</a>
+  <br>
+  <br>
+
   <table cellpadding="10" border="1" cellspacing="0">
     <tr>
       <th>#</th>
